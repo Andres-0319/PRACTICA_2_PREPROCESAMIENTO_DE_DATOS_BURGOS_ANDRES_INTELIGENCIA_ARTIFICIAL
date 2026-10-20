@@ -1,1 +1,1 @@
-Este es una práctica de Preprocesamiento de datos de la asignatura de Inteligencia Artificial, Desarrollado por el estudiante Jorge Andrés Burgos Galarza.
+Este es una práctica de Preprocesamiento de datos de la asignatura de Inteligencia Artificial, Desarrollado por el estudiante Jorge Andrés Burgos Galarza. En el archivo con nombre de "Burgos_Andrés_Práctica_02_PREPROCESAMIENTO_DE_DATOS.ipynb", se encuentra el desarrollo completo del trabajo correspondiente en el entorno de Google Colab.
