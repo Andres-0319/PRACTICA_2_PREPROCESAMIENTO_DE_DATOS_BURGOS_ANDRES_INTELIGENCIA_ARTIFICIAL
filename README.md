@@ -1,1 +1,1 @@
-# PRACTICA_2_PREPROCESAMIENTO_DE_DATOS_BURGOS_ANDRES_INTELIGENCIA_ARTIFICIAL
+Este es una práctica de Preprocesamiento de datos de la asignatura de Inteligencia Artificial, Desarrollado por el estudiante Jorge Andrés Burgos Galarza.
